@@ -1,2 +1,2 @@
 # MylmageHost
-no1
+no1博客图床
